@@ -1,6 +1,7 @@
 {
   "name": "cryptoworld",
   "homepage": "https://anubhavpatel.github.io/crypto_world",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
