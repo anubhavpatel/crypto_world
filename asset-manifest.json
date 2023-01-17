@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/crypto_world/static/js/main.2bb00528.js",
-    "static/media/btc.png": "/crypto_world/static/media/btc.04101b0b163c035fa57e.png",
-    "static/media/pic.jpg": "/crypto_world/static/media/pic.fd291112e26d170a0ae0.jpg",
-    "index.html": "/crypto_world/index.html",
-    "main.2bb00528.js.map": "/crypto_world/static/js/main.2bb00528.js.map"
+    "main.js": "./static/js/main.d8c594d8.js",
+    "static/media/btc.png": "./static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/pic.jpg": "./static/media/pic.fd291112e26d170a0ae0.jpg",
+    "index.html": "./index.html",
+    "main.d8c594d8.js.map": "./static/js/main.d8c594d8.js.map"
   },
   "entrypoints": [
-    "static/js/main.2bb00528.js"
+    "static/js/main.d8c594d8.js"
   ]
 }
