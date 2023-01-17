@@ -64,6 +64,7 @@ const Coins = () => {
                 price={i.current_price}
                 img={i.image}
                 symbol={i.symbol}
+                 
                 currencySymbol={currencySymbol}
               />
             ))}
